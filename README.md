@@ -6,3 +6,6 @@ https://ssherwoo-5000.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cogniti
 curl -X POST -H "Content-Type: application/json" -d '{"user_message": "Python"}' <your Application URL>
 # The Github token
 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
+# command to clone github
+git clone https://github.com/ssherwoo/StudentChatbott.git
+https://raw.githubusercontent.com/ssherwoo/StudenChatbott/main/coursera_courses.json
